@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+#canvas {
+  border: 5px solid navy;
+  box-shadow: 0 0 40px rgba(20, 20, 20, 0.6);
+  background-color: #000000;
+}
